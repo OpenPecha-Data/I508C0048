@@ -1,0 +1,194 @@
+id: 074b282e5b4b4475953e0fdf16a51206
+annotation_type: Language
+revision: '00001'
+annotations:
+  f0ca8915ffae4711b8c87da919b66565:
+    span:
+      start: 39
+      end: 656
+    language: en
+  7a9bdfc3dc0f4d0baf3dc62f880d5984:
+    span:
+      start: 11997
+      end: 12049
+    language: en
+  3f4d8dd09e4448148f6ea411b9b74366:
+    span:
+      start: 15331
+      end: 15425
+    language: en
+  f3d474dd4d8b4d0fbeadbfbb664504db:
+    span:
+      start: 16645
+      end: 16689
+    language: en
+  8711a2ad495e48a1812cda9e0d2c053d:
+    span:
+      start: 28861
+      end: 28967
+    language: en
+  c46bfb55ecb64b0e8f51cd6cb695dee3:
+    span:
+      start: 59686
+      end: 59732
+    language: en
+  543374359070406287a8d2737fd34711:
+    span:
+      start: 59779
+      end: 59830
+    language: en
+  65c1b3bf740b460e89a2b0043b797c10:
+    span:
+      start: 60387
+      end: 60441
+    language: en
+  9c2238f3869545fc8c36b317e896119b:
+    span:
+      start: 60692
+      end: 60745
+    language: en
+  7340a4d42cca43c8a65f86e54d2bdc77:
+    span:
+      start: 65226
+      end: 65276
+    language: en
+  604fc439cb454c64aecfed909a40d32d:
+    span:
+      start: 65539
+      end: 65587
+    language: en
+  bcdf5243e4fc42e9a2dbf76fb17fa1ae:
+    span:
+      start: 85692
+      end: 85751
+    language: en
+  03fe2c433e704180834ecda00d450d92:
+    span:
+      start: 85804
+      end: 85856
+    language: en
+  d5dd7b5a4e6242b08b292ab906ee135d:
+    span:
+      start: 89401
+      end: 89445
+    language: en
+  4324fe04c95a45d6a174d39edbe588e8:
+    span:
+      start: 91321
+      end: 91366
+    language: en
+  fe0ba33e3fec416fa1748fd8b6ab1d1a:
+    span:
+      start: 95945
+      end: 96000
+    language: en
+  d2a9fea77e97429b9319b39b151ec5e8:
+    span:
+      start: 139013
+      end: 139059
+    language: en
+  4cfaafd1b2044db3824810451568c9fa:
+    span:
+      start: 139113
+      end: 139164
+    language: en
+  8f5372ae58bb447a955479eda77d4443:
+    span:
+      start: 139641
+      end: 139694
+    language: en
+  e13f6f86c5d543b09882d4c5811ae717:
+    span:
+      start: 139749
+      end: 139798
+    language: en
+  25636bdd12fd4892933f11f848347786:
+    span:
+      start: 139954
+      end: 140004
+    language: en
+  8f96a73cd96e4a55a5e88b7d77cef0da:
+    span:
+      start: 141733
+      end: 141786
+    language: en
+  13a125cac8604400a538f04cd42cb0c9:
+    span:
+      start: 145285
+      end: 145331
+    language: en
+  1bbc8197643f49c992dbbf2528ad15a5:
+    span:
+      start: 155017
+      end: 155066
+    language: en
+  fb8bfa26b9fd4179914784ad7214d241:
+    span:
+      start: 200461
+      end: 200509
+    language: en
+  9e9630256925499991bf691f4b2b74ae:
+    span:
+      start: 202369
+      end: 202417
+    language: en
+  63fdaecefe6744f8b8454e5a0d78e365:
+    span:
+      start: 203427
+      end: 203474
+    language: en
+  778d087c7b0a417b9d053969825678e4:
+    span:
+      start: 204268
+      end: 204317
+    language: en
+  74cdc510f97e4f4abb09bac6cf154dc3:
+    span:
+      start: 204415
+      end: 204456
+    language: en
+  ed3bb03eab1c4b6782a5c8c5969c193d:
+    span:
+      start: 205990
+      end: 206044
+    language: en
+  a052975228ba409b8b9e78d4ece98a67:
+    span:
+      start: 207681
+      end: 207740
+    language: en
+  56f217c084eb41bebc162f9d6ba66f6c:
+    span:
+      start: 207896
+      end: 207992
+    language: en
+  235b87ecb3c443998e982e498e39f63f:
+    span:
+      start: 211288
+      end: 211333
+    language: en
+  fc5e000c18f548e8843b39a1113e2df4:
+    span:
+      start: 213032
+      end: 213062
+    language: en
+  58172cda51fd46aaafd7be38c1efa754:
+    span:
+      start: 213293
+      end: 213344
+    language: en
+  655c295c621c4af3b4e16cd63e3f4ce8:
+    span:
+      start: 216935
+      end: 216987
+    language: en
+  7801e501f7d34a3988a571c26b418344:
+    span:
+      start: 217029
+      end: 217071
+    language: en
+  a4ee63658ccc4709af8c4776db8c9d1e:
+    span:
+      start: 217108
+      end: 217210
+    language: en
